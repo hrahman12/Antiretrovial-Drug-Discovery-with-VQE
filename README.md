@@ -1,1 +1,1 @@
-# Protein-Folding-with-VQE-with-3D-geometries
+# Protein-Folding-with-VQE-for-small-molecules
